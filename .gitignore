@@ -1,0 +1,11 @@
+# Ignore dataset
+asl_alphabet_train/
+asl_alphabet_test/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter/Spyder temp files
+*.ipynb_checkpoints
+.spyderproject
